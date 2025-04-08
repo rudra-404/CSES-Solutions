@@ -1,4 +1,4 @@
-# 📘 CSES Problem Set [Solutions]()
+# 📘 CSES Problem Set Solutions
 
 This repository contains my solutions to the [CSES Problem Set](https://cses.fi/problemset/) organized by category. The goal is to improve my problem-solving skills through regular practice and to help others who are also on the same journey.
 
@@ -19,7 +19,7 @@ This repository contains my solutions to the [CSES Problem Set](https://cses.fi/
 11. Additional Problems
 
 ### ✅ Solved Problems :
-- [SOLVE]()
+- [SOLVE](https://github.com/rudra-404/CSES-Solutions/tree/main/SOLVE)
 
 ### 🛠 Technologies Used :
 - C++
